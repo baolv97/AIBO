@@ -30,7 +30,7 @@ long readB(){
 }
 
 main(){
-	// Bao -Bao dep trai.
+	
 	long k=readB();
 	
 	float M=500;
